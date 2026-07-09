@@ -1,0 +1,12 @@
+nltk
+tensorflow
+pandas
+numpy
+matplotlib
+scikit-learn
+transformers
+datasets
+networkx
+gensim
+rouge-score
+pypdf
